@@ -3,10 +3,13 @@ CisiTkt
 
 Basic search engine project for the data-based knowledge acquisition course.
 
+Installation
+------------
+[Download the latest release](https://github.com/Skymirrh/CisiTkt/releases) and run `sh build.sh` to compile the Java part of our project.
+
 Usage
 -----
-Run `build.sh` to compile the Java part of our project and `run.sh` to run
-the whole project.
+`sh run.sh` will run the whole project.
 
 Data
 ----
